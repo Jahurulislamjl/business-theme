@@ -1,0 +1,30 @@
+$primary-color: #1C2634;
+$second-color: #DA2448;
+
+$black: #000000;
+$white: #ffffff;
+
+
+
+// ============== navbar section ==========================
+
+#head-navbar{
+    .navbar{
+        background-color: $primary-color;
+        padding-left: 50px;
+        padding-right: 50px;
+
+        .brand-logo{
+
+        }
+
+        .navbar-links{
+            justify-content: flex-end;
+
+            .navbar-nav{
+                
+            }
+        }
+    }
+
+}

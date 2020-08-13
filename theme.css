@@ -1,0 +1,12 @@
+#head-navbar .navbar {
+  background-color: #1C2634;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#head-navbar .navbar .navbar-links {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+/*# sourceMappingURL=theme.css.map */
